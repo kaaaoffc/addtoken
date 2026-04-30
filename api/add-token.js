@@ -2,7 +2,7 @@ const axios = require('axios');
 
 export default async function handler(req, res) {
   // --- CONFIG ---
-  const GITHUB_TOKEN = 'ISI_GITHUB_TOKEN_KAMU'; 
+  const GITHUB_TOKEN = '‎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'; 
   const OWNER = 'kaaaoffc';
   const REPO = 'database';
   const PATH = 'tokens.json';
